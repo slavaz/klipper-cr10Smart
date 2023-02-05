@@ -4,6 +4,8 @@ Disclaimer: use it at your own risk!
 I don't know what motherboard is installed inside your printer, the config is applicable for Creality CR10 Smart printer only with 'Creality v.45x motherboard (stm32f109 processor)'. The printer looks like https://www.creality.com/products/creality-cr-10-smart-3d-printer
 If you have one of CR10 Mini, CR10, CR10S or CR10 Smart Pro printers please be aware: it's totally different printers! And my config will be useless for you.
 
+Preamble: I use https://github.com/th33xitus/kiauh project for set up my PI and printer. It's very useful, indeed!
+
 There are few configurations and manuals how to install Klipper on Creality CR10 Smart printer, like:
 - https://forum.3dprintbeginner.com/t/creality-cr-10-smart-klipper-firmware-with-internal-creality-box/124
 - https://github.com/shrimpyuk/CR-10-Smart-Klipper
