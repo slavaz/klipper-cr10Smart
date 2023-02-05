@@ -18,6 +18,10 @@ There were many issues with finding out settings for Auto Bed Leveling (ABL) sen
 So the sensor settings are completely different with comparsion to any BLTouch config that I've found online.
 I tried to find out needed settings via 'parameters enumeration' way, like a blindy kitty and I found working solution.
 
+And, of corse, there is my config settings for firmware:
+
+![Configuration settings](img/Klipper-firmware-configuration.png)
+
 So you may use my configs and enjoy!
 
 Note: I upgraded my hotend to print high-temperature plastics (only replaced stock throat by this https://www.amazon.com/Heatbreak-Titanium-Temperature-Compatible-Anycubic/dp/B09P1H24R3) so I set the maximum hotend temperature for my printer to 300 celcium degrees.
